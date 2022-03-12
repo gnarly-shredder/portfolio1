@@ -1,4 +1,9 @@
 h1 {
     font-size: 30em;
-    color:midnightblue
+    color:indigo
+}
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
 }
