@@ -13,7 +13,8 @@ h1 {
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: aquamarine;
+    background-color:black;
+    color: aliceblue;
 }
 
 img {
@@ -39,6 +40,7 @@ h3 {
     margin-left: 10em;
     margin-right: 10em;
     padding: 2em;
+    border-radius: 25px;
 }
 
 hr {
@@ -56,3 +58,11 @@ p {
     font-size: 1em;
     font-weight: bold ;
 }
+
+.multicolortext {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
