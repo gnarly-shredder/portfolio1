@@ -1,9 +1,58 @@
 h1 {
-    font-size: 30em;
-    color:indigo
+    font-size: 3em;
+    text-decoration-color: darkmagenta;
+    background-color:rgb(185, 245, 245);
+    color:rgb(167, 11, 11)
+    width: 10px;
+    border: 15px solid indigo;
+    padding: 5px;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 25px;
 }
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: aquamarine;
+}
+
+img {
+    border: 5px;
+    border-radius: 50px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+#my-name {
+    color: rgb(129, 67, 138);
+}
+#lorem {
+    background-color: rgb(175, 245, 245);
+    margin-left: 10em;
+    margin-right: 10em;
+    padding: 2em;
+}
+
+hr {
+    height: 4px;
+    background-color: lightpink;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+p {
+    
+}
+
+#my-projects {
+    font-size: 1em;
+    font-weight: bold ;
 }
