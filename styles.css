@@ -1,13 +1,13 @@
 h1 {
-    font-size: 3em;
+    font-size: 3rem;
     text-decoration-color: darkmagenta;
     background-color:rgb(185, 245, 245);
     color:rgb(167, 11, 11)
     width: 10px;
     border: 15px solid indigo;
     padding: 5px;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: 1rem;
+    margin-right: 1rem;
     border-radius: 25px;
 }
 body {
@@ -25,11 +25,11 @@ img {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 #my-name {
@@ -37,17 +37,17 @@ h3 {
 }
 #lorem {
     background-color: rgb(175, 245, 245);
-    margin-left: 10em;
-    margin-right: 10em;
-    padding: 2em;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 2rem;
     border-radius: 25px;
 }
 
 hr {
     height: 4px;
     background-color: lightpink;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 p {
@@ -55,7 +55,7 @@ p {
 }
 
 #my-projects {
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: bold ;
 }
 
